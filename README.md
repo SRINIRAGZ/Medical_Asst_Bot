@@ -48,7 +48,7 @@ Answer: a feeling set off in the nervous system to alert you to possible injury 
 
 
 ### Model Performance
-- The model seem to perform ok on the retrieval of candidates as the precision score is lingering around 38%
+- The model seem to perform pretty poorly on the retrieval of candidates as the precision score is lingering around 38%
 - As as result and poor performance of the generative model, final responses do hallucinate or repeats the exact answer from the retrieved candidates.
 Given time, I would have deployer or research a better generator in order to curate the context and provide better answers. Some steps I am take in future are working with better and precise prompts, curating the context in a better and consice way and experimenting with different models.
 

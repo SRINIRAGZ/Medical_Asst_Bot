@@ -53,4 +53,4 @@ Answer: a feeling set off in the nervous system to alert you to possible injury 
 Given time, I would have deployer or research a better generator in order to curate the context and provide better answers. Some steps I am take in future are working with better and precise prompts, curating the context in a better and consice way and experimenting with different models.
 
 ### Disclaimer
-I, hearby confirm that I have not used OpenAI, Caude Code or any other AI tools directly to code my application. I, however used Youtube videos(tutorials), google search, hugging face, machine learning blogs, FAISS, tutorials to augment my knowledge and used them in this application.
+I, hearby confirm that I have not used OpenAI, Caude Code or any other AI tools directly to code my application. I, however used Youtube videos(tutorials), google search, hugging face, machine learning blogs, FAISS, tutorials, my previous practice code to augment my knowledge and used them in this application.

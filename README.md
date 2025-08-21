@@ -2,7 +2,7 @@
 ### Objective
 The probelem is to create a Medical assistant bot that can be trained on prior question and answer set provided and be used to answer new medical related questions.
 
-###Infra:
+### Infra:
 Was modeled on Google Colab notebook
 Used A100GPU for training
 
